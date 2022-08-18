@@ -501,6 +501,7 @@
   * [Gaussian](maths/gaussian.py)
   * [Greatest Common Divisor](maths/greatest_common_divisor.py)
   * [Greedy Coin Change](maths/greedy_coin_change.py)
+  * [Hamming Numbers](maths/hamming_numbers.py)
   * [Hardy Ramanujanalgo](maths/hardy_ramanujanalgo.py)
   * [Integration By Simpson Approx](maths/integration_by_simpson_approx.py)
   * [Is Ip V4 Address Valid](maths/is_ip_v4_address_valid.py)
@@ -853,6 +854,10 @@
     * [Sol1](project_euler/problem_112/sol1.py)
   * Problem 113
     * [Sol1](project_euler/problem_113/sol1.py)
+  * Problem 114
+    * [Sol1](project_euler/problem_114/sol1.py)
+  * Problem 115
+    * [Sol1](project_euler/problem_115/sol1.py)
   * Problem 119
     * [Sol1](project_euler/problem_119/sol1.py)
   * Problem 120
@@ -897,6 +902,8 @@
     * [Sol1](project_euler/problem_493/sol1.py)
   * Problem 551
     * [Sol1](project_euler/problem_551/sol1.py)
+  * Problem 587
+    * [Sol1](project_euler/problem_587/sol1.py)
   * Problem 686
     * [Sol1](project_euler/problem_686/sol1.py)
 
@@ -910,6 +917,7 @@
 
 ## Scheduling
   * [First Come First Served](scheduling/first_come_first_served.py)
+  * [Highest Response Ratio Next](scheduling/highest_response_ratio_next.py)
   * [Multi Level Feedback Queue](scheduling/multi_level_feedback_queue.py)
   * [Non Preemptive Shortest Job First](scheduling/non_preemptive_shortest_job_first.py)
   * [Round Robin](scheduling/round_robin.py)
@@ -938,6 +946,7 @@
   * [Bogo Sort](sorts/bogo_sort.py)
   * [Bubble Sort](sorts/bubble_sort.py)
   * [Bucket Sort](sorts/bucket_sort.py)
+  * [Circle Sort](sorts/circle_sort.py)
   * [Cocktail Shaker Sort](sorts/cocktail_shaker_sort.py)
   * [Comb Sort](sorts/comb_sort.py)
   * [Counting Sort](sorts/counting_sort.py)
@@ -995,6 +1004,7 @@
   * [Credit Card Validator](strings/credit_card_validator.py)
   * [Detecting English Programmatically](strings/detecting_english_programmatically.py)
   * [Frequency Finder](strings/frequency_finder.py)
+  * [Hamming Distance](strings/hamming_distance.py)
   * [Indian Phone Validator](strings/indian_phone_validator.py)
   * [Is Contains Unique Chars](strings/is_contains_unique_chars.py)
   * [Is Palindrome](strings/is_palindrome.py)
@@ -1016,6 +1026,7 @@
   * [Reverse Words](strings/reverse_words.py)
   * [Split](strings/split.py)
   * [Upper](strings/upper.py)
+  * [Wave](strings/wave.py)
   * [Wildcard Pattern Matching](strings/wildcard_pattern_matching.py)
   * [Word Occurrence](strings/word_occurrence.py)
   * [Word Patterns](strings/word_patterns.py)
